@@ -9,8 +9,8 @@ This repository contains TypeScript files, each focusing on a single topic, most
 ### <ins>Project structure</ins>
 
 
-├── src/<br>#---------------- *Multiple standalone typecript files*<br>
-├── tests/<br>#---------------- *The unit test suite*<br>    
+├── src/<br>#----------------*Multiple standalone typecript files*<br>
+├── tests/<br>#--------------*The unit test suite*<br>    
 └── README.md<br>
 └── .gitignore<br>
 
