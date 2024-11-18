@@ -1,24 +1,20 @@
-# te
+# typescript
 
 ### <ins>About</ins>
-This .Net 8 Console Application project simulate tennis match score board.
+
+This repository contains TypeScript files, each focusing on a single topic, most of which are accompanied by unit tests written in Jest.
 
 
 
 ### <ins>Project structure</ins>
 
 
-├── src/<br>
-│   ├──TennisMatchSimulator/ #-----------*Main Console APplication*<br>
-│   ├──TennisMatchService/ #-------------*Core business layer*<br>
-│   ├──Contract/ #-----------------------*The interface contract*<br>
-<br><br>
-├── tests/<br>
-│   ├──TennisMatchSimulator.Test/       #---------------- *The unit test suite*<br>
+├── src/<br>#---------------- *Multiple standalone typecript files*<br>
+├── tests/<br>#---------------- *The unit test suite*<br>    
 └── README.md<br>
 └── .gitignore<br>
 
 ### <ins>Technologies<ins>
-* .Net 8 Console Application<br> 
-* Dependecy registration and injuction for service layer <br>
-* xUnit unit tests for service layer  <br>
+* Typescript <br> 
+* Jest test runner <br>
+* Jest test coverage  <br>
