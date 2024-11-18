@@ -14,6 +14,8 @@ This repository contains TypeScript files, each focusing on a single topic, most
 └── README.md<br>
 └── .gitignore<br>
 
+<br><br>
+
 ### <ins>Technologies<ins>
 * Typescript <br> 
 * Jest test runner <br>
